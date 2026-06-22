@@ -19,7 +19,7 @@ My knowledge coming into this subject was small especially in regard to the MCP.
 I have been trying to expand my knowledge in stocks since soon enough I will have a job and will be making my own money. So when we were presented with this final project, I wanted to explore something that I will be able to learn from and also add to my portfolio. I do not have anything in "finance" on my portfolio so this was a way to expand my knowledge. I wanted to explore the MCP server because of the capabilities I have seen other people use it thus far. 
 
 ## Video
-
+Check the file StockForecasterPresentation to see full explanation and motivation for the project. Also for live demonstration with Claude.
 
 ## Installation
 The Direction for the Project will be in other file!
